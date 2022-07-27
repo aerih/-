@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/1.jfif</file>
+        <file>res/2.jpg</file>
+        <file>res/3.png</file>
+        <file>res/4.png</file>
+        <file>res/ready.png</file>
+        <file>res/NoSignal.png</file>
+        <file>res/NoSignalBig.png</file>
+        <file>res/selected.png</file>
+        <file>res/notSelected.png</file>
+        <file>res/readyBig.png</file>
+    </qresource>
+</RCC>
